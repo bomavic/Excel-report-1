@@ -1,5 +1,5 @@
-### Excel-report-1
-# One of my excel practice exercises
+# Excel-report-1
+## One of my excel practice exercises
 
 Category:Rent, Groceries, Utilities,  Entertainment,  Transportation 
 
