@@ -14,3 +14,4 @@ Question
 3) Format the Pie Chart to show the category labels and percentage values on the slices.
 
 
+https://github.com/bomavic/Excel-report-1/blob/main/E1.xlsx
